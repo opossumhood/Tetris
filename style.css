@@ -1,0 +1,28 @@
+canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#playbutton {
+    width: 100px;
+    height: 50px;
+    display: inline;
+    margin-top: 30px;
+    margin-left: 630px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+}
+
+#score {
+    width: 500px;
+    height: 50px;
+    display: inline;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
